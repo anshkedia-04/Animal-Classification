@@ -25,3 +25,6 @@ In this project, we implement a CNN model to classify animal images into differe
 - **Git LFS**: For storing large files such as the trained model.
 
 ---
+
+![image](https://github.com/user-attachments/assets/825af242-d935-401d-9fbc-3fec9fa1eb02)
+
